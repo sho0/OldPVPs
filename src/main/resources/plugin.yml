@@ -1,0 +1,5 @@
+name: OldPVPs
+version: ${project.version}
+main: pcsnode.com.oldpvps.OldPVPs
+authors: [Sho0]
+description: old pvp plugin made by Sho0

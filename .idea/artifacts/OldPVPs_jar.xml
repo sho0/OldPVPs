@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OldPVPs:jar">
+    <output-path>$PROJECT_DIR$/../../minecraft server/plugins</output-path>
+    <root id="archive" name="OldPVPs.jar">
+      <element id="module-output" name="OldPVPs" />
+    </root>
+  </artifact>
+</component>
